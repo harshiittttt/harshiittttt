@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web3,Web2,DSA,Quant_finance,HFT
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on everything that suits me.
-- 📫 You can reach me here
+- 📫 You can reach me on Github
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I hate frontend
 
